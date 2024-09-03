@@ -2,9 +2,7 @@ Hello. This is a GitHub for all of my projects in one place. I had a school GitH
 
 This does not include any graphic design projects.
 
-School Projects on other GitHubs
-- https://github.com/PiersonCourtois/CapstoneProject2023 - this is my senior computer science capstone project. It is intended to be a program used by earthquake and other natural disaster response teams to find survivors faster than human teams can. I worked with 2 other people in this project. I mostly worked on UI stuff. Currently this is private, but I have contacted the person who owns it to make it public. Sorry for any inconvience.
-- https://github.com/MaryHoette/CSC310Project
+I have a fork of my senior capstone project that I am waiting for my group member who owns the repository to make public, so that is not on here, but is coming. It was written using python.
 
 I have uploaded some videos of some of my projects to youtube @ https://www.youtube.com/@MaryHoette
 
